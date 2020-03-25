@@ -39,4 +39,4 @@ yarn start
 
 ---
 
-Made with much :purple_heart: and :muscle: by Jhow Paes :blush: <a href="https://www.linkedin.com/in/diogopaes/">Talk to me!</a>
+Made with much :purple_heart: and :muscle: by Diogo Paes :blush: <a href="https://www.linkedin.com/in/diogopaes/">Talk to me!</a>
