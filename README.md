@@ -20,13 +20,13 @@ yarn knex migrate:latest
 yarn start
 
 ```
-# Web
+# Frontend
 
 ## :computer: Run it
 
 ```bash
 # enter the folder
-cd web
+cd frontend
 
 # Install the dependencies
 yarn install
