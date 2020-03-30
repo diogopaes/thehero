@@ -37,6 +37,21 @@ yarn start
 ```
 # Mobile
 
----
+## :computer: Run it
 
-Made with much :purple_heart: and :muscle: by Diogo Paes :blush: <a href="https://www.linkedin.com/in/diogopaes/">Talk to me!</a>
+```bash
+# enter the folder
+cd mobile
+
+# Need Expo - if do not have Install the command line tools
+npm install --g expo-cli
+
+# Install the dependencies
+yarn install
+
+# Start the project
+yarn start
+
+```
+
+Made with much :purple_heart: and :muscle: by Diogo Paes :blush: <a href="https://www.linkedin.com/in/diogopaesdev/">Talk to me!</a>
